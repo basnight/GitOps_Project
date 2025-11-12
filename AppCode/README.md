@@ -1,6 +1,6 @@
 # Deploying Dockerized App on AWS EKS Cluster using ArgoCD and GitOps methodology with CircleCI
 
-This repository contains the code of the React application called ToDo-App. I've created this to Deploy it on the Kubernetes cluster by GitOps workflow.
+This directory contains the code of the React application called ToDo-App. I've created this to Deploy it on the Kubernetes cluster by GitOps workflow.
 
 ## 💪Complete Hands-on video tutorial for this project. Click here 👇
 [![GitOps , ArgoCD, Terraform](https://i9.ytimg.com/vi_webp/LgBnbmfsIdA/mqdefault.webp?v=65001550&sqp=CMyFgqgG&rs=AOn4CLB-7wLlJjUqu2q7dOdDMdQRyQ46TA)](https://youtu.be/LgBnbmfsIdA "GitOps|ArgoCD|Terraform")
