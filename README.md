@@ -32,3 +32,16 @@
 
 ➡️ [Manifest] (https://github.com/basnight/GitOps_ArgoCD/tree/main/kube_manifest)
 
+## 📌Commands used for Argocd Setup
+
+kubectl apply -n argocd -f (https://raw.githubusercontent.com/argoproj/argo-cd/stable/manifests/install.yaml)
+
+kubectl port-forward svc/argocd-server 8080:443 -n argocd
+
+kubectl get secret argocd-initial-admin-secret -n argocd -o yaml
+
+## 👨‍💻Reference Blogs:
+1)   / deploying-dockerized-app-on-aws-eks-cluste...  
+2)   / how-to-provision-amazon-eks-cluster-using-...  
+3)   / how-to-set-pipeline-using-circleci-update-...  
+4)   / install-argocd-on-the-eks-cluster-and-conf... 
