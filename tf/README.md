@@ -15,7 +15,7 @@ Follow the below steps to Install the Terraform and another dependency.
 
 1️⃣ Clone the repo
 
-``` git clone https://github.com/basnight/GitOps_ArgoCD/tf.git ```
+``` git clone https://github.com/basnight/GitOps_ArgoCD/tree/main/tf.git ```
 
 2️⃣ Let's install dependency to deploy the application
 
@@ -70,8 +70,8 @@ type yes, and it will prompt you for permission or use --auto-approve in the com
 
 **This project contains Three directories**
 
-➡️ [App Code] (https://github.com/basnight/GitOps_ArgoCD/AppCode)
+➡️ [App Code] (https://github.com/basnight/GitOps_ArgoCD/tree/main/AppCode)
 
-➡️ [Terraform code] (https://github.com/basnight/GitOps_ArgoCD/tf)
+➡️ [Terraform code] (https://github.com/basnight/GitOps_ArgoCD/tree/main/tf)
 
-➡️ [Manifest] (https://github.com/basnight/kube_manifest)
+➡️ [Manifest] (https://github.com/basnight/GitOps_ArgoCD/tree/main/kube_manifest)
