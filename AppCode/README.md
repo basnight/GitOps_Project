@@ -21,7 +21,7 @@ This repository contains the code of the React application called ToDo-App. I've
 
 - React Js
 
-**This project contains Three GitHub repositories**
+**This project contains Three directories**
 
 ➡️ [App Code] (https://github.com/basnight/GitOps_ArgoCD/AppCode)
 
