@@ -1,6 +1,6 @@
 # Setup pipeline using CircleCI, update GitHub Kubernetes manifest repo and push image on Docker Hub
 
-✨This repository contains the code of the **Kubernetes manifest files** as part of Project 4 of our **10WeeksofCloudOps** series! In this comprehensive hands-on project, we dive deep into the world of **GitOps and ArgoCD**, demonstrating how to implement these essential DevOps practices step by step by **dockerizing** the application and provisioning the infrastructure using **Terraform**.
+✨This directtory contains the code of the **Kubernetes manifest files** In this comprehensive hands-on project, we dive deep into the world of **GitOps and ArgoCD**, demonstrating how to implement these essential DevOps practices step by step by **dockerizing** the application and provisioning the infrastructure using **Terraform**.
 
 ## 💪Complete Hands-on video tutorial for this project. Click here 👇
 [![GitOps , ArgoCD, Terraform](https://i9.ytimg.com/vi_webp/LgBnbmfsIdA/mqdefault.webp?v=65001550&sqp=CMyFgqgG&rs=AOn4CLB-7wLlJjUqu2q7dOdDMdQRyQ46TA)](https://youtu.be/LgBnbmfsIdA "GitOps|ArgoCD|Terraform")
@@ -28,12 +28,12 @@
 
 Following this pipeline ensures that our application code is thoroughly tested, built into Docker images, and deployed with the updated manifest using the GitOps approach.
 
-**This project contains Three GitHub repositories**
+**This project contains Three GitHub directories**
 
-➡️ [App Code] (https://github.com/piyushsachdeva/AppCode)
+➡️ [App Code] (https://github.com/basnight/GitOps_ArgoCD/AppCode)
 
-➡️ [Terraform code] (https://github.com/piyushsachdeva/10weeksofcloudops-week4-tf)
+➡️ [Terraform code] (https://github.com/basnight/GitOps_ArgoCD/tf)
 
-➡️ [Manifest Repo] (https://github.com/piyushsachdeva/kube_manifest)
+➡️ [Manifest] (https://github.com/basnight/GitOps_ArgoCD/kube_manifest)
 
 🙏 Thank you so much for reading.
