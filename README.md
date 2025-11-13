@@ -26,11 +26,11 @@
 
 ## This project contains Three directories
 
-➡️ [App Code] (https://github.com/basnight/GitOps_ArgoCD/tree/main/AppCode)
+➡️ [App Code] [link](https://github.com/basnight/GitOps_Project/tree/main/AppCode)
 
-➡️ [Terraform code] (https://github.com/basnight/GitOps_ArgoCD/tree/main/tf)
+➡️ [Terraform code] [link](https://github.com/basnight/GitOps_Project/tree/main/tf)
 
-➡️ [Manifest] (https://github.com/basnight/GitOps_ArgoCD/tree/main/kube_manifest)
+➡️ [Manifest] [link](https://github.com/basnight/GitOps_Project/tree/main/kube_manifest)
 
 ## 📌Commands used for Argocd Setup
 
